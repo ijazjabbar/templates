@@ -32,4 +32,5 @@ After doing this, you may fix the identity used for this commit with:
 
 
 
-    
+Clone Repo
+git clone <url>    

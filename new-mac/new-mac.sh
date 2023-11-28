@@ -14,3 +14,6 @@ brew install --cask visual-studio-code
 
 # Install docker
 brew install --cask docker
+
+# Install sam cli
+brew install aws-sam-cli
